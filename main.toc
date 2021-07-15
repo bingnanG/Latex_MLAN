@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Regression and Classification}{2}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Regression}{4}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Classifaction}{8}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}Optimization}{10}{subsection.1.3}% 
+\contentsline {subsubsection}{\numberline {1.3.1}Batch}{10}{subsubsection.1.3.1}% 
+\contentsline {subsubsection}{\numberline {1.3.2}Momentum}{12}{subsubsection.1.3.2}% 
+\contentsline {subsubsection}{\numberline {1.3.3}RMSProp and Adam}{13}{subsubsection.1.3.3}% 
+\contentsline {section}{\numberline {2}Convolutional Neural Network}{16}{section.2}% 
+\contentsline {section}{\numberline {3}Self-attention}{21}{section.3}% 
+\contentsline {section}{\numberline {4}Transformer}{24}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Encoder}{25}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Decoder}{27}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Encoder-Decoder}{29}{subsection.4.3}% 
+\contentsline {section}{\numberline {5}To Learn more}{30}{section.5}% 
